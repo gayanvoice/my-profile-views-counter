@@ -3,14 +3,14 @@
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository. It is created and maintained by gayanvoice (https://github.com/gayanvoice).
 | Repository | Last Updated | Unique | Views |
  | ---------- | ------------ | ------ | ----- |
-|[android-vpn-client-ics-openvpn](https://github.com/gayanvoice/insights/tree/master/readme/207237845/week.md)|2021-05-29T00:00:00.000Z|733|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/207237845/small/week.png" height="20"> 2635|
-|[openvpn-install-for-multiple-users](https://github.com/gayanvoice/insights/tree/master/readme/208378302/week.md)|2021-05-29T00:00:00.000Z|100|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/208378302/small/week.png" height="20"> 172|
-|[android-animations](https://github.com/gayanvoice/insights/tree/master/readme/209241190/week.md)|2021-05-29T00:00:00.000Z|39|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/209241190/small/week.png" height="20"> 47|
-|[node-chart-exec](https://github.com/gayanvoice/insights/tree/master/readme/370678191/week.md)|2021-05-29T03:52:29.494Z|0|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/370678191/small/week.png" height="20"> 0|
-|[github-insights](https://github.com/gayanvoice/insights/tree/master/readme/372371373/week.md)|2021-05-29T03:53:01.197Z|0|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372371373/small/week.png" height="20"> 0|
-|[github-insights-template](https://github.com/gayanvoice/insights/tree/master/readme/372372861/week.md)|2021-05-29T03:53:33.730Z|0|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372372861/small/week.png" height="20"> 0|
+|[android-vpn-client-ics-openvpn](https://github.com/gayanvoice/insights/tree/master/readme/207237845/week.md)|2021-05-30T00:00:00.000Z|792|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/207237845/small/week.png" height="20"> 2791|
+|[openvpn-install-for-multiple-users](https://github.com/gayanvoice/insights/tree/master/readme/208378302/week.md)|2021-05-30T00:00:00.000Z|106|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/208378302/small/week.png" height="20"> 183|
+|[android-animations](https://github.com/gayanvoice/insights/tree/master/readme/209241190/week.md)|2021-05-30T00:00:00.000Z|40|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/209241190/small/week.png" height="20"> 48|
+|[node-chart-exec](https://github.com/gayanvoice/insights/tree/master/readme/370678191/week.md)|2021-05-30T03:52:29.494Z|0|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/370678191/small/week.png" height="20"> 0|
+|[github-insights](https://github.com/gayanvoice/insights/tree/master/readme/372371373/week.md)|2021-05-30T03:53:01.197Z|0|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372371373/small/week.png" height="20"> 0|
+|[github-insights-template](https://github.com/gayanvoice/insights/tree/master/readme/372372861/week.md)|2021-05-30T03:53:33.730Z|0|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372372861/small/week.png" height="20"> 0|
 
-<small><i>Last updated on Tue Jun 01 2021 03:54:05 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Tue Jun 01 2021 07:55:39 GMT+0000 (Coordinated Universal Time)</i></small>
 
 [**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
 ## ⛔ DO NOT
