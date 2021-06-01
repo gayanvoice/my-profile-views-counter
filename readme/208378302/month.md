@@ -8,7 +8,7 @@
 **:calendar: Month Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2021/6/1` |  `4` | `4` |
+ | `2021/6/1` |  `5` | `5` |
  | `2021/5/31` |  `10` | `15` |
  | `2021/5/30` |  `6` | `11` |
  | `2021/5/29` |  `6` | `10` |
@@ -40,7 +40,7 @@
  | `2021/5/3` |  `0` | `0` |
  | `2021/5/2` |  `0` | `0` |
 
-<small><i>Last updated on Tue Jun 01 2021 13:10:55 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Tue Jun 01 2021 20:32:50 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
