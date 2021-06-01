@@ -3,6 +3,11 @@
   "advancedMode": "true",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "android-vpn-client-ics-openvpn",
+    "openvpn-install-for-multiple-users".
+    "android-animations",
+    "node-chart-exec",
+    "github-insights",
+    "github-insights-template"
   ]
 }
