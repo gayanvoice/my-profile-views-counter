@@ -22,7 +22,7 @@
  | `2021/5/22` |  `3` | `4` |
  | `2021/5/21` |  `6` | `6` |
  | `2021/5/20` |  `1` | `1` |
- | `2021/5/19` |  `4` | `7` |
+ | `2021/5/19` |  `2` | `5` |
  | `2021/5/18` |  `1` | `1` |
  | `2021/5/17` |  `0` | `0` |
  | `2021/5/16` |  `0` | `0` |
@@ -40,7 +40,7 @@
  | `2021/5/4` |  `0` | `0` |
  | `2021/5/3` |  `0` | `0` |
 
-<small><i>Last updated on Wed Jun 02 2021 02:41:20 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Wed Jun 02 2021 07:54:11 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
