@@ -8,8 +8,8 @@
 **:calendar: Year Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2021/6/1` |  `424` | `1312` |
- | `2021/5/1` |  `443` | `1558` |
+ | `2021/6/1` |  `441` | `1393` |
+ | `2021/5/1` |  `424` | `1409` |
  | `2021/4/1` |  `0` | `0` |
  | `2021/3/1` |  `0` | `0` |
  | `2021/2/1` |  `0` | `0` |
@@ -22,7 +22,7 @@
  | `2020/7/1` |  `0` | `0` |
  | `2020/6/1` |  `0` | `0` |
 
-<small><i>Last updated on Tue Jun 08 2021 06:34:02 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Tue Jun 08 2021 12:31:26 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
