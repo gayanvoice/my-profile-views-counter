@@ -10,7 +10,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 |[github-insights](https://github.com/gayanvoice/insights/tree/master/readme/372371373/week.md)|2021-06-09T00:00:00.000Z|35|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372371373/small/week.png" height="20"> 46|
 |[github-insights-template](https://github.com/gayanvoice/insights/tree/master/readme/372372861/week.md)|2021-06-09T00:00:00.000Z|20|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372372861/small/week.png" height="20"> 40|
 
-<small><i>Last updated on Fri Jun 11 2021 00:54:04 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Fri Jun 11 2021 06:22:39 GMT+0000 (Coordinated Universal Time)</i></small>
 
 [**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
 ## ⛔ DO NOT
