@@ -8,10 +8,10 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 |[android-animations](https://github.com/gayanvoice/insights/tree/master/readme/209241190/week.md)|2021-06-14T00:00:00.000Z|94|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/209241190/small/week.png" height="20"> 259|
 |[top-github-users](https://github.com/gayanvoice/insights/tree/master/readme/373383893/week.md)|2021-06-14T00:00:00.000Z|17|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/373383893/small/week.png" height="20"> 110|
 |[node-chart-exec](https://github.com/gayanvoice/insights/tree/master/readme/370678191/week.md)|2021-06-14T00:52:29.073Z|0|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/370678191/small/week.png" height="20"> 0|
-|[github-insights](https://github.com/gayanvoice/insights/tree/master/readme/372371373/week.md)|2021-06-14T00:53:17.480Z|37|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372371373/small/week.png" height="20"> 48|
-|[github-insights-template](https://github.com/gayanvoice/insights/tree/master/readme/372372861/week.md)|2021-06-14T00:54:01.536Z|26|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372372861/small/week.png" height="20"> 48|
+|[github-hit-counter](https://github.com/gayanvoice/insights/tree/master/readme/372371373/week.md)|2021-06-14T00:53:17.480Z|37|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372371373/small/week.png" height="20"> 48|
+|[github-hit-counter-template](https://github.com/gayanvoice/insights/tree/master/readme/372372861/week.md)|2021-06-14T00:54:01.536Z|26|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372372861/small/week.png" height="20"> 48|
 
-<small><i>Last updated on Wed Jun 16 2021 00:56:04 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Wed Jun 16 2021 06:25:00 GMT+0000 (Coordinated Universal Time)</i></small>
 
 [**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
 ## ⛔ DO NOT
