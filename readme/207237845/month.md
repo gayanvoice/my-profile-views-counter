@@ -22,7 +22,7 @@
  | `2021/6/6` |  `49` | `154` |
  | `2021/6/5` |  `73` | `199` |
  | `2021/6/4` |  `57` | `247` |
- | `2021/6/3` |  `52` | `190` |
+ | `2021/6/3` |  `50` | `186` |
  | `2021/6/2` |  `5` | `22` |
  | `2021/6/1` |  `8` | `16` |
  | `2021/5/31` |  `9` | `13` |
@@ -40,7 +40,7 @@
  | `2021/5/19` |  `6` | `13` |
  | `2021/5/18` |  `2` | `12` |
 
-<small><i>Last updated on Thu Jun 17 2021 01:09:27 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on 2021/6/17 3:56 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -53,11 +53,4 @@
 ```readme
 # android-vpn-client-ics-openvpn [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/207237845/small/week.png" height="20">](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md)
 ```
-[**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
-## ⛔ DO NOT
-- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
-- The app will automatically stop measuring insights until you revoke those commits.
-## 📄 License
-- Powered by: [GitHub Insights ↗️](https://github.com/gayanvoice/github-insights)
-- Code: [MIT ↗️](./LICENSE) © [gayanvoice ↗️](https://github.com/gayanvoice)
-- Data in the `./cache` directory: [Open Database License ↗️](https://opendatacommons.org/licenses/odbl/1-0/)
+FOOTER

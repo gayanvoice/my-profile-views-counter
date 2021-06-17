@@ -22,7 +22,7 @@
  | `2020/7/1` |  `0` | `0` |
  | `2020/6/1` |  `0` | `0` |
 
-<small><i>Last updated on Thu Jun 17 2021 01:12:37 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on 2021/6/17 3:58 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -35,11 +35,4 @@
 ```readme
 # github-insights [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/372371373/small/week.png" height="20">](https://github.com/gayanvoice/insights/blob/master/readme/372371373/week.md)
 ```
-[**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
-## ⛔ DO NOT
-- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
-- The app will automatically stop measuring insights until you revoke those commits.
-## 📄 License
-- Powered by: [GitHub Insights ↗️](https://github.com/gayanvoice/github-insights)
-- Code: [MIT ↗️](./LICENSE) © [gayanvoice ↗️](https://github.com/gayanvoice)
-- Data in the `./cache` directory: [Open Database License ↗️](https://opendatacommons.org/licenses/odbl/1-0/)
+FOOTER
