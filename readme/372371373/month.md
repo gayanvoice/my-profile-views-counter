@@ -40,7 +40,7 @@
  | `2021/5/19` |  `0` | `0` |
  | `2021/5/18` |  `0` | `0` |
 
-<small><i>Last updated on 2021/6/17 4:07 AM UTC</i></small>
+<small><i>Last updated on 2021/6/17 5:18 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge

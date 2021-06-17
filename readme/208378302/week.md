@@ -17,7 +17,7 @@
  | `2021/6/11` |  `17` | `24` |
  | `2021/6/10` |  `8` | `13` |
 
-<small><i>Last updated on 2021/6/17 4:05 AM UTC</i></small>
+<small><i>Last updated on 2021/6/17 5:16 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
