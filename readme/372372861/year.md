@@ -2,7 +2,7 @@
 | [**Week →**](https://github.com/gayanvoice/insights/blob/master/readme/372372861/week.md) | [**Month →**](https://github.com/gayanvoice/insights/blob/master/readme/372372861/month.md) | [**Year →**](https://github.com/gayanvoice/insights/blob/master/readme/372372861/year.md) |
  | ------------ | --------------- | ----- |
 
-### :octocat: [github-hit-counter-template](https://github.com/gayanvoice/github-hit-counter-template)
+### :octocat: [github-insights-template](https://github.com/gayanvoice/github-insights-template)
 ![Image of insights](https://github.com/gayanvoice/insights/blob/master/graph/372372861/large/year.png)
 
 **:calendar: Year Insights Table**
@@ -22,7 +22,7 @@
  | `2020/7/1` |  `0` | `0` |
  | `2020/6/1` |  `0` | `0` |
 
-<small><i>Last updated on Thu Jun 17 2021 00:52:35 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Thu Jun 17 2021 01:13:14 GMT+0000 (Coordinated Universal Time)</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -31,9 +31,9 @@
 [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/372372861/week.md)
 ```
 ### Header
-# github-hit-counter-template [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/gayanvoice/insights/blob/master/readme/372372861/week.md)
+# github-insights-template [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/gayanvoice/insights/blob/master/readme/372372861/week.md)
 ```readme
-# github-hit-counter-template [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/gayanvoice/insights/blob/master/readme/372372861/week.md)
+# github-insights-template [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/gayanvoice/insights/blob/master/readme/372372861/week.md)
 ```
 [**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
 ## ⛔ DO NOT

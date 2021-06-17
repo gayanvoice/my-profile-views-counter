@@ -9,9 +9,9 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 |[top-github-users](https://github.com/gayanvoice/insights/tree/master/readme/373383893/week.md)|2021-06-15T00:00:00.000Z|27|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/373383893/small/week.png" height="20"> 150|
 |[node-chart-exec](https://github.com/gayanvoice/insights/tree/master/readme/370678191/week.md)|2021-06-15T00:56:01.148Z|0|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/370678191/small/week.png" height="20"> 0|
 |[github-insights](https://github.com/gayanvoice/insights/tree/master/readme/372371373/week.md)|2021-06-15T00:56:30.115Z|37|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372371373/small/week.png" height="20"> 48|
-|[github-hit-counter-template](https://github.com/gayanvoice/insights/tree/master/readme/372372861/week.md)|2021-06-15T00:00:00.000Z|27|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372372861/small/week.png" height="20"> 49|
+|[github-insights-template](https://github.com/gayanvoice/insights/tree/master/readme/372372861/week.md)|2021-06-15T00:00:00.000Z|27|<img alt="Response time graph" src="https://github.com/gayanvoice/insights/raw/master/graph/372372861/small/week.png" height="20"> 49|
 
-<small><i>Last updated on Thu Jun 17 2021 00:53:05 GMT+0000 (Coordinated Universal Time)</i></small>
+<small><i>Last updated on Thu Jun 17 2021 01:13:51 GMT+0000 (Coordinated Universal Time)</i></small>
 
 [**Set up GitHub Insights for your repositories ↗️**](https://github.com/gayanvoice/github-insights)
 ## ⛔ DO NOT
