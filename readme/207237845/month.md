@@ -1,14 +1,14 @@
-## [🔙 insights](https://github.com/gayanvoice/insights)
-| [**Week →**](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md) | [**Month →**](https://github.com/gayanvoice/insights/blob/master/readme/207237845/month.md) | [**Year →**](https://github.com/gayanvoice/insights/blob/master/readme/207237845/year.md) |
+## [🔙 my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter)
+| [**Week →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/year.md) |
  | ------------ | --------------- | ----- |
 
 ### :octocat: [android-vpn-client-ics-openvpn](https://github.com/gayanvoice/android-vpn-client-ics-openvpn)
-![Image of insights](https://github.com/gayanvoice/insights/blob/master/graph/207237845/large/month.png)
+![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/207237845/large/month.png)
 
 **:calendar: Month Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2021/6/17` |  `0` | `0` |
+ | `2021/6/17` |  `36` | `121` |
  | `2021/6/16` |  `61` | `155` |
  | `2021/6/15` |  `60` | `253` |
  | `2021/6/14` |  `54` | `218` |
@@ -22,7 +22,7 @@
  | `2021/6/6` |  `49` | `154` |
  | `2021/6/5` |  `73` | `199` |
  | `2021/6/4` |  `57` | `247` |
- | `2021/6/3` |  `43` | `115` |
+ | `2021/6/3` |  `23` | `56` |
  | `2021/6/2` |  `5` | `22` |
  | `2021/6/1` |  `8` | `16` |
  | `2021/5/31` |  `9` | `13` |
@@ -40,17 +40,17 @@
  | `2021/5/19` |  `6` | `13` |
  | `2021/5/18` |  `2` | `12` |
 
-<small><i>Last updated on 2021/6/17 5:15 AM UTC</i></small>
+<small><i>Last updated on 2021/6/17 1:15 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md)
+[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md)
 ```readme
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md)
+[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md)
 ```
 ### Header
-# android-vpn-client-ics-openvpn [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/207237845/small/week.png" height="20">](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md)
+# android-vpn-client-ics-openvpn [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/207237845/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md)
 ```readme
-# android-vpn-client-ics-openvpn [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/207237845/small/week.png" height="20">](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md)
+# android-vpn-client-ics-openvpn [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/207237845/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md)
 ```
 FOOTER
