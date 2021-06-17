@@ -1,4 +1,4 @@
-## [:chart_with_upwards_trend: GitHub Insights](https://github.com/gayanvoice/github-insights)
+## [:chart_with_upwards_trend: Hit Counter for GitHub](https://github.com/gayanvoice/github-insights)
 **GitHub Insights** (https://github.com/gayanvoice/github-insights) is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository. It is created and maintained by gayanvoice (https://github.com/gayanvoice).
 | Repository | Last Updated | Unique | Views |
