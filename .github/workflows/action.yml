@@ -1,11 +1,11 @@
-name: GitHub Insights CI
+name: GitHub Profile Views Counter CI
 on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 jobs:
   release:
-    name: GitHub Insights
+    name: GitHub Profile Views Counter Action
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2.3.4
