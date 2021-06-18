@@ -1,14 +1,13 @@
 ## [🔙 my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter)
 | [**Week →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/year.md) |
- | ------------ | --------------- | ----- |
-
+| ---- | ---- | ----- |
 ### :octocat: [github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter)
 ![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/372372861/large/month.png)
 
 **:calendar: Month Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2021/6/18` |  `0` | `0` |
+ | `2021/6/18` |  `1` | `2` |
  | `2021/6/17` |  `4` | `4` |
  | `2021/6/16` |  `3` | `8` |
  | `2021/6/15` |  `1` | `1` |
@@ -22,7 +21,7 @@
  | `2021/6/7` |  `9` | `12` |
  | `2021/6/6` |  `0` | `0` |
  | `2021/6/5` |  `0` | `0` |
- | `2021/6/4` |  `4` | `4` |
+ | `2021/6/4` |  `1` | `1` |
  | `2021/6/3` |  `0` | `0` |
  | `2021/6/2` |  `0` | `0` |
  | `2021/6/1` |  `0` | `0` |
@@ -40,7 +39,8 @@
  | `2021/5/20` |  `0` | `0` |
  | `2021/5/19` |  `0` | `0` |
 
-<small><i>Last updated on 2021/6/18 12:54 AM UTC</i></small>
+
+<small><i>Last updated on 2021/6/18 10:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -53,4 +53,17 @@
 ```readme
 # github-profile-views-counter [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
 ```
-FOOTER
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
+
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice/github-profile-views-counter)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)

@@ -1,14 +1,13 @@
 ## [🔙 my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter)
 | [**Week →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/year.md) |
- | ------------ | --------------- | ----- |
-
+| ---- | ---- | ----- |
 ### :octocat: [android-vpn-client-ics-openvpn](https://github.com/gayanvoice/android-vpn-client-ics-openvpn)
 ![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/207237845/large/month.png)
 
 **:calendar: Month Insights Table**
 | Last Updated | Unique | Count |
  | ------------ | --------------- | ----- |
- | `2021/6/18` |  `0` | `0` |
+ | `2021/6/18` |  `19` | `40` |
  | `2021/6/17` |  `67` | `313` |
  | `2021/6/16` |  `61` | `155` |
  | `2021/6/15` |  `60` | `253` |
@@ -22,7 +21,7 @@
  | `2021/6/7` |  `61` | `200` |
  | `2021/6/6` |  `49` | `154` |
  | `2021/6/5` |  `73` | `199` |
- | `2021/6/4` |  `54` | `236` |
+ | `2021/6/4` |  `27` | `99` |
  | `2021/6/3` |  `7` | `20` |
  | `2021/6/2` |  `5` | `22` |
  | `2021/6/1` |  `8` | `16` |
@@ -40,7 +39,8 @@
  | `2021/5/20` |  `10` | `27` |
  | `2021/5/19` |  `6` | `13` |
 
-<small><i>Last updated on 2021/6/18 12:51 AM UTC</i></small>
+
+<small><i>Last updated on 2021/6/18 10:02 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -53,4 +53,17 @@
 ```readme
 # android-vpn-client-ics-openvpn [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/207237845/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md)
 ```
-FOOTER
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
+
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice/github-profile-views-counter)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
