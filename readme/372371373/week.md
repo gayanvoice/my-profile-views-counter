@@ -1,7 +1,6 @@
 ## [🔙 my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter)
-| [**Week →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372371373/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372371373/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372371373/year.md) |
- | ------------ | --------------- | ----- |
-
+### Some features are mot available
+ #### GitHub Insights Action only features `week` reports. To active `month`, and `year` reports edit [config.json](https://github.com/gayanvoice/my-profile-view-counter/blob/master/config.json) and set `true` in `advancedMode`.
 ### :octocat: [github-profile-views-counter-action](https://github.com/gayanvoice/github-profile-views-counter-action)
 ![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/372371373/large/week.png)
 
@@ -17,7 +16,7 @@
  | `2021/6/12` |  `2` | `2` |
  | `2021/6/11` |  `0` | `0` |
 
-<small><i>Last updated on 2021/6/18 12:54 AM UTC</i></small>
+<small><i>Last updated on 2021/6/18 2:05 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
