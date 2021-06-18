@@ -1,8 +1,8 @@
-## [🔙 my-view-counter](https://github.com/gayanvoice/my-view-counter)
-| [**Week →**](https://github.com/gayanvoice/my-view-counter/blob/master/readme/208378302/week.md) | [**Month →**](https://github.com/gayanvoice/my-view-counter/blob/master/readme/208378302/month.md) | [**Year →**](https://github.com/gayanvoice/my-view-counter/blob/master/readme/208378302/year.md) |
+## [🔙 my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter)
+| [**Week →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [openvpn-install-for-multiple-users](https://github.com/gayanvoice/openvpn-install-for-multiple-users)
-![Image of my-view-counter](https://github.com/gayanvoice/my-view-counter/blob/master/graph/208378302/large/year.png)
+![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/208378302/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -165,18 +165,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/6/18 12:25 PM UTC</i></small>
+<small><i>Last updated on 2021/6/18 12:49 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-view-counter](https://github.com/gayanvoice/my-view-counter/blob/master/svg/208378302/badge.svg)](https://github.com/gayanvoice/my-view-counter/blob/master/readme/208378302/week.md)
+[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/208378302/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/week.md)
 ```readme
-[![Image of my-view-counter](https://github.com/gayanvoice/my-view-counter/blob/master/svg/208378302/badge.svg)](https://github.com/gayanvoice/my-view-counter/blob/master/readme/208378302/week.md)
+[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/208378302/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/week.md)
 ```
 ### Header
-# openvpn-install-for-multiple-users [<img alt="Image of my-view-counter" src="https://github.com/gayanvoice/my-view-counter/blob/master/graph/208378302/small/week.png" height="20">](https://github.com/gayanvoice/my-view-counter/blob/master/readme/208378302/week.md)
+# openvpn-install-for-multiple-users [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/208378302/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/week.md)
 ```readme
-# openvpn-install-for-multiple-users [<img alt="Image of my-view-counter" src="https://github.com/gayanvoice/my-view-counter/blob/master/graph/208378302/small/week.png" height="20">](https://github.com/gayanvoice/my-view-counter/blob/master/readme/208378302/week.md)
+# openvpn-install-for-multiple-users [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/208378302/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
