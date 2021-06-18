@@ -1,6 +1,5 @@
 ## [🔙 my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter)
-### Some features are mot available
- #### GitHub Insights Action only features `week` reports. To active `month`, and `year` reports edit [config.json](https://github.com/gayanvoice/my-profile-view-counter/blob/master/config.json) and set `true` in `advancedMode`.
+
 ### :octocat: [github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter)
 ![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/372372861/large/week.png)
 
@@ -16,7 +15,8 @@
  | `2021/6/12` |  `5` | `7` |
  | `2021/6/11` |  `1` | `1` |
 
-<small><i>Last updated on 2021/6/18 6:21 AM UTC</i></small>
+
+<small><i>Last updated on 2021/6/18 10:01 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -29,4 +29,17 @@
 ```readme
 # github-profile-views-counter [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
 ```
-FOOTER
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
+
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice/github-profile-views-counter)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)

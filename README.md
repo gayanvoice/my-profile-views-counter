@@ -133,7 +133,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/6/18 6:21 AM UTC</i></small>
+<small><i>Last updated on 2021/6/18 10:01 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
@@ -142,7 +142,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 ```readme
 [![Image of https://github.com/gayanvoice/my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter)
 ```
-[**Set up GitHub Profile Views Counter for your repositories ↗️**](https://github.com/gayanvoice/github-profile-views-counter)
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
 - The app will automatically stop measuring insights until you revoke those commits.
@@ -153,6 +153,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 - [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
 ## 📄 License
-- Powered by: [GitHub Profile Views Counter ↗️](https://github.com/gayanvoice/github-profile-views-counter)
-- Code: [MIT ↗️](./LICENSE) © [gayanvoice ↗️](https://github.com/gayanvoice)
-- Data in the `./cache` directory: [Open Database License ↗️](https://opendatacommons.org/licenses/odbl/1-0/)
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
