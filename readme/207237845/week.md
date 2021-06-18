@@ -4,20 +4,113 @@
 ### :octocat: [android-vpn-client-ics-openvpn](https://github.com/gayanvoice/android-vpn-client-ics-openvpn)
 ![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/207237845/large/week.png)
 
-**:calendar: Week Insights Table**
-| Last Updated | Unique | Count |
- | ------------ | --------------- | ----- |
- | `2021/6/18` |  `19` | `40` |
- | `2021/6/17` |  `67` | `313` |
- | `2021/6/16` |  `61` | `155` |
- | `2021/6/15` |  `60` | `253` |
- | `2021/6/14` |  `54` | `218` |
- | `2021/6/13` |  `42` | `143` |
- | `2021/6/12` |  `60` | `294` |
- | `2021/6/11` |  `77` | `396` |
+<details>
+	<summary>Click to expand table</summary>
+	<h2>:calendar: Week Page Views Table</h2>
+<table>
+	<tr>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Count
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/18</code>
+		</td>
+		<td>
+			<code>22</code>
+		</td>
+		<td>
+			<code>69</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/17</code>
+		</td>
+		<td>
+			<code>67</code>
+		</td>
+		<td>
+			<code>313</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/16</code>
+		</td>
+		<td>
+			<code>61</code>
+		</td>
+		<td>
+			<code>155</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/15</code>
+		</td>
+		<td>
+			<code>60</code>
+		</td>
+		<td>
+			<code>253</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/14</code>
+		</td>
+		<td>
+			<code>54</code>
+		</td>
+		<td>
+			<code>218</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/13</code>
+		</td>
+		<td>
+			<code>42</code>
+		</td>
+		<td>
+			<code>143</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/12</code>
+		</td>
+		<td>
+			<code>60</code>
+		</td>
+		<td>
+			<code>294</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/11</code>
+		</td>
+		<td>
+			<code>77</code>
+		</td>
+		<td>
+			<code>396</code>
+		</td>
+	</tr>
+</table>
 
-
-<small><i>Last updated on 2021/6/18 10:02 AM UTC</i></small>
+</details>
+<small><i>Last updated on 2021/6/18 11:22 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge

@@ -4,43 +4,366 @@
 ### :octocat: [android-vpn-client-ics-openvpn](https://github.com/gayanvoice/android-vpn-client-ics-openvpn)
 ![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/207237845/large/month.png)
 
-**:calendar: Month Insights Table**
-| Last Updated | Unique | Count |
- | ------------ | --------------- | ----- |
- | `2021/6/18` |  `19` | `40` |
- | `2021/6/17` |  `67` | `313` |
- | `2021/6/16` |  `61` | `155` |
- | `2021/6/15` |  `60` | `253` |
- | `2021/6/14` |  `54` | `218` |
- | `2021/6/13` |  `42` | `143` |
- | `2021/6/12` |  `60` | `294` |
- | `2021/6/11` |  `77` | `396` |
- | `2021/6/10` |  `48` | `172` |
- | `2021/6/9` |  `66` | `312` |
- | `2021/6/8` |  `56` | `218` |
- | `2021/6/7` |  `61` | `200` |
- | `2021/6/6` |  `49` | `154` |
- | `2021/6/5` |  `73` | `199` |
- | `2021/6/4` |  `27` | `99` |
- | `2021/6/3` |  `7` | `20` |
- | `2021/6/2` |  `5` | `22` |
- | `2021/6/1` |  `8` | `16` |
- | `2021/5/31` |  `9` | `13` |
- | `2021/5/30` |  `7` | `12` |
- | `2021/5/29` |  `7` | `9` |
- | `2021/5/28` |  `1` | `1` |
- | `2021/5/27` |  `8` | `12` |
- | `2021/5/26` |  `5` | `18` |
- | `2021/5/25` |  `12` | `19` |
- | `2021/5/24` |  `5` | `9` |
- | `2021/5/23` |  `4` | `14` |
- | `2021/5/22` |  `2` | `2` |
- | `2021/5/21` |  `3` | `15` |
- | `2021/5/20` |  `10` | `27` |
- | `2021/5/19` |  `6` | `13` |
+<details>
+	<summary>Click to expand table</summary>
+	<h2>:calendar: Month Page Views Table</h2>
+<table>
+	<tr>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Count
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/18</code>
+		</td>
+		<td>
+			<code>22</code>
+		</td>
+		<td>
+			<code>69</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/17</code>
+		</td>
+		<td>
+			<code>67</code>
+		</td>
+		<td>
+			<code>313</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/16</code>
+		</td>
+		<td>
+			<code>61</code>
+		</td>
+		<td>
+			<code>155</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/15</code>
+		</td>
+		<td>
+			<code>60</code>
+		</td>
+		<td>
+			<code>253</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/14</code>
+		</td>
+		<td>
+			<code>54</code>
+		</td>
+		<td>
+			<code>218</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/13</code>
+		</td>
+		<td>
+			<code>42</code>
+		</td>
+		<td>
+			<code>143</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/12</code>
+		</td>
+		<td>
+			<code>60</code>
+		</td>
+		<td>
+			<code>294</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/11</code>
+		</td>
+		<td>
+			<code>77</code>
+		</td>
+		<td>
+			<code>396</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/10</code>
+		</td>
+		<td>
+			<code>48</code>
+		</td>
+		<td>
+			<code>172</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/9</code>
+		</td>
+		<td>
+			<code>66</code>
+		</td>
+		<td>
+			<code>312</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/8</code>
+		</td>
+		<td>
+			<code>56</code>
+		</td>
+		<td>
+			<code>218</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/7</code>
+		</td>
+		<td>
+			<code>61</code>
+		</td>
+		<td>
+			<code>200</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/6</code>
+		</td>
+		<td>
+			<code>49</code>
+		</td>
+		<td>
+			<code>154</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/5</code>
+		</td>
+		<td>
+			<code>73</code>
+		</td>
+		<td>
+			<code>199</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/4</code>
+		</td>
+		<td>
+			<code>22</code>
+		</td>
+		<td>
+			<code>77</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/3</code>
+		</td>
+		<td>
+			<code>7</code>
+		</td>
+		<td>
+			<code>20</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/2</code>
+		</td>
+		<td>
+			<code>5</code>
+		</td>
+		<td>
+			<code>22</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/1</code>
+		</td>
+		<td>
+			<code>8</code>
+		</td>
+		<td>
+			<code>16</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/31</code>
+		</td>
+		<td>
+			<code>9</code>
+		</td>
+		<td>
+			<code>13</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/30</code>
+		</td>
+		<td>
+			<code>7</code>
+		</td>
+		<td>
+			<code>12</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/29</code>
+		</td>
+		<td>
+			<code>7</code>
+		</td>
+		<td>
+			<code>9</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/28</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/27</code>
+		</td>
+		<td>
+			<code>8</code>
+		</td>
+		<td>
+			<code>12</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/26</code>
+		</td>
+		<td>
+			<code>5</code>
+		</td>
+		<td>
+			<code>18</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/25</code>
+		</td>
+		<td>
+			<code>12</code>
+		</td>
+		<td>
+			<code>19</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/24</code>
+		</td>
+		<td>
+			<code>5</code>
+		</td>
+		<td>
+			<code>9</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/23</code>
+		</td>
+		<td>
+			<code>4</code>
+		</td>
+		<td>
+			<code>14</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/22</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/21</code>
+		</td>
+		<td>
+			<code>3</code>
+		</td>
+		<td>
+			<code>15</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/20</code>
+		</td>
+		<td>
+			<code>10</code>
+		</td>
+		<td>
+			<code>27</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/19</code>
+		</td>
+		<td>
+			<code>6</code>
+		</td>
+		<td>
+			<code>13</code>
+		</td>
+	</tr>
+</table>
 
-
-<small><i>Last updated on 2021/6/18 10:02 AM UTC</i></small>
+</details>
+<small><i>Last updated on 2021/6/18 11:22 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge

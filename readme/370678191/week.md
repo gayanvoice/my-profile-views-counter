@@ -4,20 +4,113 @@
 ### :octocat: [node-chart-exec](https://github.com/gayanvoice/node-chart-exec)
 ![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/370678191/large/week.png)
 
-**:calendar: Week Insights Table**
-| Last Updated | Unique | Count |
- | ------------ | --------------- | ----- |
- | `2021/6/18` |  `0` | `0` |
- | `2021/6/17` |  `0` | `0` |
- | `2021/6/16` |  `1` | `1` |
- | `2021/6/15` |  `0` | `0` |
- | `2021/6/14` |  `0` | `0` |
- | `2021/6/13` |  `0` | `0` |
- | `2021/6/12` |  `0` | `0` |
- | `2021/6/11` |  `0` | `0` |
+<details>
+	<summary>Click to expand table</summary>
+	<h2>:calendar: Week Page Views Table</h2>
+<table>
+	<tr>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Count
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/18</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/17</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/16</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/15</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/14</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/13</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/12</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/11</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+</table>
 
-
-<small><i>Last updated on 2021/6/18 10:05 AM UTC</i></small>
+</details>
+<small><i>Last updated on 2021/6/18 11:25 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge

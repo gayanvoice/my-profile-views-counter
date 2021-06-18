@@ -4,20 +4,113 @@
 ### :octocat: [android-animations](https://github.com/gayanvoice/android-animations)
 ![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/209241190/large/week.png)
 
-**:calendar: Week Insights Table**
-| Last Updated | Unique | Count |
- | ------------ | --------------- | ----- |
- | `2021/6/18` |  `2` | `2` |
- | `2021/6/17` |  `6` | `21` |
- | `2021/6/16` |  `3` | `9` |
- | `2021/6/15` |  `4` | `4` |
- | `2021/6/14` |  `4` | `30` |
- | `2021/6/13` |  `2` | `14` |
- | `2021/6/12` |  `3` | `6` |
- | `2021/6/11` |  `8` | `70` |
+<details>
+	<summary>Click to expand table</summary>
+	<h2>:calendar: Week Page Views Table</h2>
+<table>
+	<tr>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Count
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/18</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/17</code>
+		</td>
+		<td>
+			<code>6</code>
+		</td>
+		<td>
+			<code>21</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/16</code>
+		</td>
+		<td>
+			<code>3</code>
+		</td>
+		<td>
+			<code>9</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/15</code>
+		</td>
+		<td>
+			<code>4</code>
+		</td>
+		<td>
+			<code>4</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/14</code>
+		</td>
+		<td>
+			<code>4</code>
+		</td>
+		<td>
+			<code>30</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/13</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+		<td>
+			<code>14</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/12</code>
+		</td>
+		<td>
+			<code>3</code>
+		</td>
+		<td>
+			<code>6</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/11</code>
+		</td>
+		<td>
+			<code>8</code>
+		</td>
+		<td>
+			<code>70</code>
+		</td>
+	</tr>
+</table>
 
-
-<small><i>Last updated on 2021/6/18 10:03 AM UTC</i></small>
+</details>
+<small><i>Last updated on 2021/6/18 11:24 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge

@@ -4,25 +4,168 @@
 ### :octocat: [openvpn-install-for-multiple-users](https://github.com/gayanvoice/openvpn-install-for-multiple-users)
 ![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/208378302/large/year.png)
 
-**:calendar: Year Insights Table**
-| Last Updated | Unique | Count |
- | ------------ | --------------- | ----- |
- | `2021/6/1` |  `98` | `177` |
- | `2021/5/1` |  `26` | `51` |
- | `2021/4/1` |  `0` | `0` |
- | `2021/3/1` |  `0` | `0` |
- | `2021/2/1` |  `0` | `0` |
- | `2021/1/1` |  `0` | `0` |
- | `2020/12/1` |  `0` | `0` |
- | `2020/11/1` |  `0` | `0` |
- | `2020/10/1` |  `0` | `0` |
- | `2020/9/1` |  `0` | `0` |
- | `2020/8/1` |  `0` | `0` |
- | `2020/7/1` |  `0` | `0` |
- | `2020/6/1` |  `0` | `0` |
+<details>
+	<summary>Click to expand table</summary>
+	<h2>:calendar: Year Page Views Table</h2>
+<table>
+	<tr>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Count
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/6/1</code>
+		</td>
+		<td>
+			<code>98</code>
+		</td>
+		<td>
+			<code>187</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/5/1</code>
+		</td>
+		<td>
+			<code>26</code>
+		</td>
+		<td>
+			<code>51</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/4/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/3/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/2/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/1/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2020/12/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2020/11/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2020/10/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2020/9/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2020/8/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2020/7/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2020/6/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+</table>
 
-
-<small><i>Last updated on 2021/6/18 10:03 AM UTC</i></small>
+</details>
+<small><i>Last updated on 2021/6/18 11:23 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
