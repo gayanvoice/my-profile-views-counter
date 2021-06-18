@@ -1,5 +1,6 @@
 ## [🔙 my-view-counter](https://github.com/gayanvoice/my-view-counter)
-
+| [**Week →**](https://github.com/gayanvoice/my-view-counter/blob/master/readme/207237845/week.md) | [**Month →**](https://github.com/gayanvoice/my-view-counter/blob/master/readme/207237845/month.md) | [**Year →**](https://github.com/gayanvoice/my-view-counter/blob/master/readme/207237845/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [android-vpn-client-ics-openvpn](https://github.com/gayanvoice/android-vpn-client-ics-openvpn)
 ![Image of my-view-counter](https://github.com/gayanvoice/my-view-counter/blob/master/graph/207237845/large/week.png)
 
@@ -109,7 +110,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/6/18 11:49 AM UTC</i></small>
+<small><i>Last updated on 2021/6/18 11:58 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
