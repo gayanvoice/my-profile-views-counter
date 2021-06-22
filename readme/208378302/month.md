@@ -1,8 +1,8 @@
-## [🔙 my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter)
-| [**Week →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/year.md) |
+## [🔙 my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter)
+| [**Week →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/208378302/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/208378302/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/208378302/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [openvpn-install-for-multiple-users](https://github.com/gayanvoice/openvpn-install-for-multiple-users)
-![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/208378302/large/month.png)
+![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/208378302/large/month.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -24,10 +24,10 @@
 			<code>2021/6/22</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>7</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>7</code>
 		</td>
 	</tr>
 	<tr>
@@ -178,10 +178,10 @@
 			<code>2021/6/8</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>5</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>16</code>
 		</td>
 	</tr>
 	<tr>
@@ -363,18 +363,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/6/22 12:48 AM UTC</i></small>
+<small><i>Last updated on 2021/6/22 6:20 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/208378302/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/week.md)
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/208378302/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/208378302/week.md)
 ```readme
-[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/208378302/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/week.md)
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/208378302/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/208378302/week.md)
 ```
 ### Header
-# openvpn-install-for-multiple-users [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/208378302/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/week.md)
+# openvpn-install-for-multiple-users [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/208378302/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/208378302/week.md)
 ```readme
-# openvpn-install-for-multiple-users [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/208378302/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/208378302/week.md)
+# openvpn-install-for-multiple-users [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/208378302/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/208378302/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

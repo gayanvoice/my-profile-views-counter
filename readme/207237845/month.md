@@ -1,8 +1,8 @@
-## [🔙 my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter)
-| [**Week →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/year.md) |
+## [🔙 my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter)
+| [**Week →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/207237845/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/207237845/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/207237845/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [android-vpn-client-ics-openvpn](https://github.com/gayanvoice/android-vpn-client-ics-openvpn)
-![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/207237845/large/month.png)
+![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/207237845/large/month.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -24,10 +24,10 @@
 			<code>2021/6/22</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>17</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>56</code>
 		</td>
 	</tr>
 	<tr>
@@ -178,10 +178,10 @@
 			<code>2021/6/8</code>
 		</td>
 		<td>
-			<code>55</code>
+			<code>45</code>
 		</td>
 		<td>
-			<code>217</code>
+			<code>174</code>
 		</td>
 	</tr>
 	<tr>
@@ -363,18 +363,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/6/22 12:47 AM UTC</i></small>
+<small><i>Last updated on 2021/6/22 6:20 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md)
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/207237845/week.md)
 ```readme
-[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md)
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/207237845/week.md)
 ```
 ### Header
-# android-vpn-client-ics-openvpn [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/207237845/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md)
+# android-vpn-client-ics-openvpn [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/207237845/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/207237845/week.md)
 ```readme
-# android-vpn-client-ics-openvpn [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/207237845/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/207237845/week.md)
+# android-vpn-client-ics-openvpn [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/207237845/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/207237845/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
