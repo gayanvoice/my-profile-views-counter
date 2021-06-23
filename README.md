@@ -85,22 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/370678191/week.md">
-				node-chart-exec
-			</a>
-		</td>
-		<td>
-			2021/6/21 12:56 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/370678191/small/week.png" height="20"> 1
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372371373/week.md">
 				github-profile-views-counter-action
 			</a>
@@ -131,9 +115,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372372861/small/week.png" height="20"> 449
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/370678191/week.md">
+				node-chart-exec
+			</a>
+		</td>
+		<td>
+			2021/6/21 12:56 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/370678191/small/week.png" height="20"> 1
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2021/6/23 12:48 AM UTC</i></small>
+<small><i>Last updated on 2021/6/23 6:22 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
