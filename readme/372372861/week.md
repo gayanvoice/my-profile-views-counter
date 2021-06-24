@@ -1,5 +1,6 @@
 ## [🔙 my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter)
-
+| [**Week →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter)
 ![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/372372861/large/week.png)
 
@@ -26,7 +27,7 @@
 			<code>4</code>
 		</td>
 		<td>
-			<code>18</code>
+			<code>21</code>
 		</td>
 	</tr>
 	<tr>
@@ -109,7 +110,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/6/24 8:56 AM UTC</i></small>
+<small><i>Last updated on 2021/6/24 9:35 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
