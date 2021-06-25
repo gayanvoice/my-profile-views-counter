@@ -1,6 +1,6 @@
 {
   "devMode": "false",
-  "advancedMode": "false",
+  "advancedMode": "true",
   "language": "en-US",
   "repository": [
     "android-vpn-client-ics-openvpn",
