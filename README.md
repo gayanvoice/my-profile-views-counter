@@ -21,7 +21,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/207237845/year.md">
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/207237845/week.md">
 				android-vpn-client-ics-openvpn
 			</a>
 		</td>
@@ -32,12 +32,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			2240
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/207237845/small/year.png" height="20"> 7976
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/207237845/small/week.png" height="20"> 7976
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/208378302/year.md">
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/208378302/week.md">
 				openvpn-install-for-multiple-users
 			</a>
 		</td>
@@ -48,12 +48,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			266
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/208378302/small/year.png" height="20"> 462
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/208378302/small/week.png" height="20"> 462
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/209241190/year.md">
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/209241190/week.md">
 				android-animations
 			</a>
 		</td>
@@ -64,12 +64,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			133
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209241190/small/year.png" height="20"> 330
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209241190/small/week.png" height="20"> 330
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/373383893/year.md">
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/373383893/week.md">
 				top-github-users
 			</a>
 		</td>
@@ -80,12 +80,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			731
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373383893/small/year.png" height="20"> 2540
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373383893/small/week.png" height="20"> 2540
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372371373/year.md">
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372371373/week.md">
 				github-profile-views-counter-action
 			</a>
 		</td>
@@ -96,12 +96,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			51
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372371373/small/year.png" height="20"> 124
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372371373/small/week.png" height="20"> 124
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372372861/year.md">
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372372861/week.md">
 				github-profile-views-counter
 			</a>
 		</td>
@@ -112,12 +112,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			187
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372372861/small/year.png" height="20"> 511
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372372861/small/week.png" height="20"> 511
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/370678191/year.md">
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/370678191/week.md">
 				node-chart-exec
 			</a>
 		</td>
@@ -128,12 +128,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/370678191/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/370678191/small/week.png" height="20"> 1
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/6/25 12:57 AM UTC</i></small>
+<small><i>Last updated on 2021/6/25 3:08 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

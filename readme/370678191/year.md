@@ -1,5 +1,6 @@
 ## [🔙 my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter)
-
+| [**Week →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/370678191/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/370678191/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/370678191/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [node-chart-exec](https://github.com/gayanvoice/node-chart-exec)
 ![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/370678191/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/6/25 12:57 AM UTC</i></small>
+<small><i>Last updated on 2021/6/25 3:07 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/370678191/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/370678191/week.md)
 ```
 ### Header
-# node-chart-exec [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/370678191/small/year.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/370678191/year.md)
+# node-chart-exec [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/370678191/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/370678191/week.md)
 ```readme
-# node-chart-exec [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/370678191/small/year.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/370678191/year.md)
+# node-chart-exec [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/370678191/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/370678191/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
