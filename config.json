@@ -5,10 +5,12 @@
   "repository": [
     "android-vpn-client-ics-openvpn",
     "openvpn-install-for-multiple-users",
-    "android-animations",
+    "top-github-users-action",
     "top-github-users",
-    "github-insights",
-    "github-insights-template",
+    "github-profile-views-counter-action",
+    "github-profile-views-counter",
+    "android-animations",
+    "android-animations-kotlin",
     "node-chart-exec"
   ]
 }
