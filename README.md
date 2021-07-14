@@ -147,25 +147,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209461195/small/week.png" height="20"> 189
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/370678191/week.md">
-				node-chart-exec
-			</a>
-		</td>
-		<td>
-			2021/7/12 12:57 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/370678191/small/week.png" height="20"> 2
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2021/7/14 12:54 AM UTC</i></small>
+<small><i>Last updated on 2021/7/14 6:24 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
