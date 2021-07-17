@@ -53,6 +53,54 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/373376349/week.md">
+				top-github-users-action
+			</a>
+		</td>
+		<td>
+			2021/7/15 12:00 AM UTC
+		</td>
+		<td>
+			221
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373376349/small/week.png" height="20"> 726
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/373383893/week.md">
+				top-github-users
+			</a>
+		</td>
+		<td>
+			2021/7/15 12:00 AM UTC
+		</td>
+		<td>
+			4028
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373383893/small/week.png" height="20"> 11782
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372371373/week.md">
+				github-profile-views-counter-action
+			</a>
+		</td>
+		<td>
+			2021/7/15 12:00 AM UTC
+		</td>
+		<td>
+			63
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372371373/small/week.png" height="20"> 175
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372372861/week.md">
 				github-profile-views-counter
 			</a>
@@ -85,6 +133,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/209461195/week.md">
+				android-animations-kotlin
+			</a>
+		</td>
+		<td>
+			2021/7/15 12:00 AM UTC
+		</td>
+		<td>
+			112
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209461195/small/week.png" height="20"> 211
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/370678191/week.md">
 				node-chart-exec
 			</a>
@@ -101,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/7/17 12:27 PM UTC</i></small>
+<small><i>Last updated on 2021/7/17 6:24 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
