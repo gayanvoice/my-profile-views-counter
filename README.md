@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/8/7 12:00 AM UTC
+			2021/8/8 12:00 AM UTC
 		</td>
 		<td>
-			4974
+			5032
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/207237845/small/week.png" height="20"> 17348
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/207237845/small/week.png" height="20"> 17634
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/8/7 12:00 AM UTC
+			2021/8/8 12:00 AM UTC
 		</td>
 		<td>
-			586
+			594
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/208378302/small/week.png" height="20"> 1009
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/208378302/small/week.png" height="20"> 1021
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/8/7 12:48 AM UTC
+			2021/8/8 12:00 AM UTC
 		</td>
 		<td>
-			283
+			285
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373376349/small/week.png" height="20"> 835
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373376349/small/week.png" height="20"> 837
 		</td>
 	</tr>
 	<tr>
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/8/7 12:00 AM UTC
+			2021/8/8 12:00 AM UTC
 		</td>
 		<td>
-			5000
+			5021
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373383893/small/week.png" height="20"> 14678
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373383893/small/week.png" height="20"> 14741
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/8/7 12:00 AM UTC
+			2021/8/8 12:54 AM UTC
 		</td>
 		<td>
 			68
@@ -106,13 +106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/8/7 12:00 AM UTC
+			2021/8/8 12:00 AM UTC
 		</td>
 		<td>
-			362
+			364
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372372861/small/week.png" height="20"> 913
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372372861/small/week.png" height="20"> 917
 		</td>
 	</tr>
 	<tr>
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/8/7 12:00 AM UTC
+			2021/8/8 12:55 AM UTC
 		</td>
 		<td>
 			284
@@ -138,13 +138,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/8/7 12:00 AM UTC
+			2021/8/8 12:00 AM UTC
 		</td>
 		<td>
-			175
+			178
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209461195/small/week.png" height="20"> 314
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209461195/small/week.png" height="20"> 321
 		</td>
 	</tr>
 	<tr>
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/8/7 12:52 AM UTC
+			2021/8/8 12:56 AM UTC
 		</td>
 		<td>
 			3
@@ -165,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/8/9 6:25 PM UTC</i></small>
+<small><i>Last updated on 2021/8/10 12:59 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
