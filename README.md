@@ -69,70 +69,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/373383893/week.md">
-				top-github-users
-			</a>
-		</td>
-		<td>
-			2021/8/12 12:00 AM UTC
-		</td>
-		<td>
-			5149
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373383893/small/week.png" height="20"> 15040
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372371373/week.md">
-				github-profile-views-counter-action
-			</a>
-		</td>
-		<td>
-			2021/8/12 12:53 AM UTC
-		</td>
-		<td>
-			68
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372371373/small/week.png" height="20"> 187
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372372861/week.md">
-				github-profile-views-counter
-			</a>
-		</td>
-		<td>
-			2021/8/12 12:00 AM UTC
-		</td>
-		<td>
-			384
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372372861/small/week.png" height="20"> 949
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/209241190/week.md">
-				android-animations
-			</a>
-		</td>
-		<td>
-			2021/8/12 12:00 AM UTC
-		</td>
-		<td>
-			299
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209241190/small/week.png" height="20"> 777
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/209461195/week.md">
 				android-animations-kotlin
 			</a>
@@ -165,7 +101,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/8/14 6:25 AM UTC</i></small>
+<small><i>Last updated on 2021/8/14 12:27 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
