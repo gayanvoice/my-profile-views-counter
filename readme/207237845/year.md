@@ -24,10 +24,10 @@
 			<code>2021/8/1</code>
 		</td>
 		<td>
-			<code>961</code>
+			<code>955</code>
 		</td>
 		<td>
-			<code>3592</code>
+			<code>3510</code>
 		</td>
 	</tr>
 	<tr>
@@ -165,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/8/26 12:30 PM UTC</i></small>
+<small><i>Last updated on 2021/8/26 6:19 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
