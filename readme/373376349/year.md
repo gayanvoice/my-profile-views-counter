@@ -1,6 +1,5 @@
 ## [🔙 my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter)
-| [**Week →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373376349/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373376349/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373376349/year.md) |
-| ---- | ---- | ----- |
+
 ### :octocat: [top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
 ![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/373376349/large/year.png)
 
@@ -165,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/9/18 6:19 AM UTC</i></small>
+<small><i>Last updated on 2021/9/18 6:58 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -174,9 +173,9 @@
 [![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/373376349/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373376349/week.md)
 ```
 ### Header
-# top-github-users-action [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/373376349/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373376349/week.md)
+# top-github-users-action [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/373376349/small/year.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373376349/year.md)
 ```readme
-# top-github-users-action [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/373376349/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373376349/week.md)
+# top-github-users-action [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/373376349/small/year.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373376349/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

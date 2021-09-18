@@ -1,6 +1,5 @@
 ## [🔙 my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter)
-| [**Week →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/209461195/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/209461195/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/209461195/year.md) |
-| ---- | ---- | ----- |
+
 ### :octocat: [android-animations-kotlin](https://github.com/gayanvoice/android-animations-kotlin)
 ![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/209461195/large/year.png)
 
@@ -24,10 +23,10 @@
 			<code>2021/9/1</code>
 		</td>
 		<td>
-			<code>46</code>
+			<code>47</code>
 		</td>
 		<td>
-			<code>107</code>
+			<code>108</code>
 		</td>
 	</tr>
 	<tr>
@@ -165,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/9/18 6:21 AM UTC</i></small>
+<small><i>Last updated on 2021/9/18 6:59 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -174,9 +173,9 @@
 [![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/209461195/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/209461195/week.md)
 ```
 ### Header
-# android-animations-kotlin [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/209461195/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/209461195/week.md)
+# android-animations-kotlin [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/209461195/small/year.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/209461195/year.md)
 ```readme
-# android-animations-kotlin [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/209461195/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/209461195/week.md)
+# android-animations-kotlin [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/209461195/small/year.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/209461195/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
