@@ -21,21 +21,43 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2021/9/18</code>
+			<code>2021/9/28</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>56</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>113</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2021/9/17</code>
+			<code>2021/9/27</code>
 		</td>
 		<td>
-			<code>40</code>
+			<code>110</code>
+		</td>
+		<td>
+			<code>241</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/9/26</code>
+		</td>
+		<td>
+			<code>27</code>
+		</td>
+		<td>
+			<code>55</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/9/25</code>
+		</td>
+		<td>
+			<code>33</code>
 		</td>
 		<td>
 			<code>83</code>
@@ -43,74 +65,52 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2021/9/16</code>
+			<code>2021/9/24</code>
 		</td>
 		<td>
-			<code>45</code>
+			<code>39</code>
 		</td>
 		<td>
-			<code>84</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2021/9/15</code>
-		</td>
-		<td>
-			<code>43</code>
-		</td>
-		<td>
-			<code>112</code>
+			<code>129</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2021/9/14</code>
+			<code>2021/9/23</code>
 		</td>
 		<td>
-			<code>40</code>
-		</td>
-		<td>
-			<code>82</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2021/9/13</code>
-		</td>
-		<td>
-			<code>49</code>
-		</td>
-		<td>
-			<code>107</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2021/9/12</code>
-		</td>
-		<td>
-			<code>35</code>
-		</td>
-		<td>
-			<code>73</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2021/9/11</code>
-		</td>
-		<td>
-			<code>31</code>
+			<code>51</code>
 		</td>
 		<td>
 			<code>118</code>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<code>2021/9/22</code>
+		</td>
+		<td>
+			<code>51</code>
+		</td>
+		<td>
+			<code>104</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2021/9/21</code>
+		</td>
+		<td>
+			<code>51</code>
+		</td>
+		<td>
+			<code>161</code>
+		</td>
+	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2021/9/18 6:19 AM UTC</i></small>
+<small><i>Last updated on 2021/9/28 11:34 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
