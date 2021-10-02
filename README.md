@@ -53,6 +53,54 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/373376349/week.md">
+				top-github-users-action
+			</a>
+		</td>
+		<td>
+			2021/9/30 12:00 AM UTC
+		</td>
+		<td>
+			400
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373376349/small/week.png" height="20"> 1043
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/373383893/week.md">
+				top-github-users
+			</a>
+		</td>
+		<td>
+			2021/9/30 12:00 AM UTC
+		</td>
+		<td>
+			7514
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373383893/small/week.png" height="20"> 20821
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372371373/week.md">
+				github-profile-views-counter-action
+			</a>
+		</td>
+		<td>
+			2021/9/30 1:01 AM UTC
+		</td>
+		<td>
+			85
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372371373/small/week.png" height="20"> 233
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372372861/week.md">
 				github-profile-views-counter
 			</a>
@@ -117,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/10/2 12:27 PM UTC</i></small>
+<small><i>Last updated on 2021/10/2 6:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
