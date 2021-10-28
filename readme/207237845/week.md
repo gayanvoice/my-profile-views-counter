@@ -49,7 +49,7 @@
 			<code>59</code>
 		</td>
 		<td>
-			<code>355</code>
+			<code>372</code>
 		</td>
 	</tr>
 	<tr>
@@ -60,7 +60,7 @@
 			<code>60</code>
 		</td>
 		<td>
-			<code>534</code>
+			<code>748</code>
 		</td>
 	</tr>
 	<tr>
@@ -71,7 +71,7 @@
 			<code>39</code>
 		</td>
 		<td>
-			<code>155</code>
+			<code>174</code>
 		</td>
 	</tr>
 	<tr>
@@ -82,7 +82,7 @@
 			<code>51</code>
 		</td>
 		<td>
-			<code>319</code>
+			<code>348</code>
 		</td>
 	</tr>
 	<tr>
@@ -93,7 +93,7 @@
 			<code>50</code>
 		</td>
 		<td>
-			<code>510</code>
+			<code>607</code>
 		</td>
 	</tr>
 	<tr>
@@ -101,16 +101,16 @@
 			<code>2021/10/21</code>
 		</td>
 		<td>
-			<code>44</code>
+			<code>52</code>
 		</td>
 		<td>
-			<code>478</code>
+			<code>658</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2021/10/28 6:20 AM UTC</i></small>
+<small><i>Last updated on 2021/10/28 12:26 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
