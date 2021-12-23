@@ -110,7 +110,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/12/23 12:30 PM UTC</i></small>
+<small><i>Last updated on 2021/12/23 6:22 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
