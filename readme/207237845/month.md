@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2022/2/19</code>
+			<code>2022/2/20</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -32,13 +32,24 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2022/2/19</code>
+		</td>
+		<td>
+			<code>44</code>
+		</td>
+		<td>
+			<code>154</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2022/2/18</code>
 		</td>
 		<td>
 			<code>62</code>
 		</td>
 		<td>
-			<code>300</code>
+			<code>301</code>
 		</td>
 	</tr>
 	<tr>
@@ -123,10 +134,10 @@
 			<code>2022/2/10</code>
 		</td>
 		<td>
-			<code>66</code>
+			<code>69</code>
 		</td>
 		<td>
-			<code>145</code>
+			<code>149</code>
 		</td>
 	</tr>
 	<tr>
@@ -167,10 +178,10 @@
 			<code>2022/2/6</code>
 		</td>
 		<td>
-			<code>44</code>
+			<code>42</code>
 		</td>
 		<td>
-			<code>146</code>
+			<code>144</code>
 		</td>
 	</tr>
 	<tr>
@@ -349,21 +360,10 @@
 			<code>155</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2022/1/20</code>
-		</td>
-		<td>
-			<code>41</code>
-		</td>
-		<td>
-			<code>101</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2022/2/19 12:28 AM UTC</i></small>
+<small><i>Last updated on 2022/2/20 12:30 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
