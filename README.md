@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/1 12:00 AM UTC
+			2022/9/2 12:00 AM UTC
 		</td>
 		<td>
-			26328
+			26387
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/207237845/small/week.png" height="20"> 96558
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/207237845/small/week.png" height="20"> 96812
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/1 12:00 AM UTC
+			2022/9/2 12:00 AM UTC
 		</td>
 		<td>
-			3314
+			3317
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/208378302/small/week.png" height="20"> 6075
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/208378302/small/week.png" height="20"> 6083
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,77 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/1 12:00 AM UTC
+			2022/9/2 12:00 AM UTC
 		</td>
 		<td>
-			2693
+			2701
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373376349/small/week.png" height="20"> 6442
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373376349/small/week.png" height="20"> 6466
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/373383893/week.md">
+				top-github-users
+			</a>
+		</td>
+		<td>
+			2022/9/2 12:00 AM UTC
+		</td>
+		<td>
+			95307
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373383893/small/week.png" height="20"> 225496
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372371373/week.md">
+				github-profile-views-counter-action
+			</a>
+		</td>
+		<td>
+			2022/9/2 12:43 AM UTC
+		</td>
+		<td>
+			211
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372371373/small/week.png" height="20"> 926
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372372861/week.md">
+				github-profile-views-counter
+			</a>
+		</td>
+		<td>
+			2022/9/2 12:00 AM UTC
+		</td>
+		<td>
+			2130
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372372861/small/week.png" height="20"> 4398
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/209241190/week.md">
+				android-animations
+			</a>
+		</td>
+		<td>
+			2022/9/2 12:00 AM UTC
+		</td>
+		<td>
+			2929
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209241190/small/week.png" height="20"> 7702
 		</td>
 	</tr>
 	<tr>
@@ -74,13 +138,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/1 12:00 AM UTC
+			2022/9/2 12:00 AM UTC
 		</td>
 		<td>
-			1456
+			1462
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209461195/small/week.png" height="20"> 3473
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209461195/small/week.png" height="20"> 3493
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/9/1 12:42 AM UTC
+			2022/9/2 12:45 AM UTC
 		</td>
 		<td>
 			18
@@ -101,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/9/3 12:45 AM UTC</i></small>
+<small><i>Last updated on 2022/9/4 12:49 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
