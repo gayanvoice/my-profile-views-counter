@@ -21,13 +21,24 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2023/1/22</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2023/1/21</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>242</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>397</code>
 		</td>
 	</tr>
 	<tr>
@@ -167,10 +178,10 @@
 			<code>2023/1/8</code>
 		</td>
 		<td>
-			<code>217</code>
+			<code>207</code>
 		</td>
 		<td>
-			<code>469</code>
+			<code>440</code>
 		</td>
 	</tr>
 	<tr>
@@ -349,21 +360,10 @@
 			<code>498</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2022/12/22</code>
-		</td>
-		<td>
-			<code>231</code>
-		</td>
-		<td>
-			<code>426</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2023/1/21 12:37 AM UTC</i></small>
+<small><i>Last updated on 2023/1/22 12:40 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
