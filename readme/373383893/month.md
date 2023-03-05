@@ -21,13 +21,35 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2023/3/5</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/3/4</code>
+		</td>
+		<td>
+			<code>220</code>
+		</td>
+		<td>
+			<code>553</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2023/3/3</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>234</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>462</code>
 		</td>
 	</tr>
 	<tr>
@@ -156,10 +178,10 @@
 			<code>2023/2/19</code>
 		</td>
 		<td>
-			<code>208</code>
+			<code>207</code>
 		</td>
 		<td>
-			<code>327</code>
+			<code>326</code>
 		</td>
 	</tr>
 	<tr>
@@ -338,32 +360,10 @@
 			<code>484</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2023/2/2</code>
-		</td>
-		<td>
-			<code>242</code>
-		</td>
-		<td>
-			<code>519</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/2/1</code>
-		</td>
-		<td>
-			<code>272</code>
-		</td>
-		<td>
-			<code>445</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2023/3/3 2:31 AM UTC</i></small>
+<small><i>Last updated on 2023/3/5 12:43 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
