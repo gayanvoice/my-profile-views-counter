@@ -21,13 +21,24 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2024/4/29</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2024/4/28</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>243</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>811</code>
 		</td>
 	</tr>
 	<tr>
@@ -35,10 +46,10 @@
 			<code>2024/4/27</code>
 		</td>
 		<td>
-			<code>294</code>
+			<code>306</code>
 		</td>
 		<td>
-			<code>1035</code>
+			<code>1068</code>
 		</td>
 	</tr>
 	<tr>
@@ -46,10 +57,10 @@
 			<code>2024/4/26</code>
 		</td>
 		<td>
-			<code>322</code>
+			<code>326</code>
 		</td>
 		<td>
-			<code>1115</code>
+			<code>1124</code>
 		</td>
 	</tr>
 	<tr>
@@ -96,21 +107,10 @@
 			<code>1214</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2024/4/21</code>
-		</td>
-		<td>
-			<code>213</code>
-		</td>
-		<td>
-			<code>781</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2024/4/28 12:05 AM UTC</i></small>
+<small><i>Last updated on 2024/4/29 12:04 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
