@@ -24,10 +24,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>2100</code>
+			<code>2346</code>
 		</td>
 		<td>
-			<code>7591</code>
+			<code>8347</code>
 		</td>
 	</tr>
 	<tr>
@@ -35,10 +35,10 @@
 			<code>2024/6/1</code>
 		</td>
 		<td>
-			<code>9723</code>
+			<code>9710</code>
 		</td>
 		<td>
-			<code>35151</code>
+			<code>35072</code>
 		</td>
 	</tr>
 	<tr>
@@ -165,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/7/7 12:05 AM UTC</i></small>
+<small><i>Last updated on 2024/7/8 12:04 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
