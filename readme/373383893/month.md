@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/9/15</code>
+			<code>2024/9/16</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -32,13 +32,24 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2024/9/15</code>
+		</td>
+		<td>
+			<code>329</code>
+		</td>
+		<td>
+			<code>1232</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2024/9/14</code>
 		</td>
 		<td>
-			<code>346</code>
+			<code>356</code>
 		</td>
 		<td>
-			<code>1027</code>
+			<code>1052</code>
 		</td>
 	</tr>
 	<tr>
@@ -123,10 +134,10 @@
 			<code>2024/9/6</code>
 		</td>
 		<td>
-			<code>483</code>
+			<code>491</code>
 		</td>
 		<td>
-			<code>1485</code>
+			<code>1497</code>
 		</td>
 	</tr>
 	<tr>
@@ -167,10 +178,10 @@
 			<code>2024/9/2</code>
 		</td>
 		<td>
-			<code>483</code>
+			<code>472</code>
 		</td>
 		<td>
-			<code>1609</code>
+			<code>1558</code>
 		</td>
 	</tr>
 	<tr>
@@ -349,21 +360,10 @@
 			<code>929</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2024/8/16</code>
-		</td>
-		<td>
-			<code>318</code>
-		</td>
-		<td>
-			<code>1159</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2024/9/15 12:05 AM UTC</i></small>
+<small><i>Last updated on 2024/9/16 12:05 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
