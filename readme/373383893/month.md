@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2024/10/26</code>
+			<code>2024/10/27</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -32,13 +32,24 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2024/10/26</code>
+		</td>
+		<td>
+			<code>253</code>
+		</td>
+		<td>
+			<code>463</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2024/10/25</code>
 		</td>
 		<td>
-			<code>349</code>
+			<code>355</code>
 		</td>
 		<td>
-			<code>608</code>
+			<code>626</code>
 		</td>
 	</tr>
 	<tr>
@@ -167,10 +178,10 @@
 			<code>2024/10/13</code>
 		</td>
 		<td>
-			<code>294</code>
+			<code>287</code>
 		</td>
 		<td>
-			<code>505</code>
+			<code>495</code>
 		</td>
 	</tr>
 	<tr>
@@ -349,21 +360,10 @@
 			<code>504</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2024/9/26</code>
-		</td>
-		<td>
-			<code>319</code>
-		</td>
-		<td>
-			<code>545</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2024/10/26 12:05 AM UTC</i></small>
+<small><i>Last updated on 2024/10/27 12:05 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
