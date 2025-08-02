@@ -21,76 +21,43 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/15</code>
+			<code>2025/8/2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>6</code>
 		</td>
 		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/14</code>
-		</td>
-		<td>
-			<code>389</code>
-		</td>
-		<td>
-			<code>623</code>
+			<code>12</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/13</code>
+			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>248</code>
+			<code>206</code>
 		</td>
 		<td>
-			<code>401</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/12</code>
-		</td>
-		<td>
-			<code>270</code>
-		</td>
-		<td>
-			<code>426</code>
+			<code>393</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/11</code>
+			<code>2025/7/31</code>
 		</td>
 		<td>
-			<code>358</code>
+			<code>247</code>
 		</td>
 		<td>
-			<code>584</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/10</code>
-		</td>
-		<td>
-			<code>331</code>
-		</td>
-		<td>
-			<code>551</code>
+			<code>487</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/9</code>
+			<code>2025/7/30</code>
 		</td>
 		<td>
-			<code>383</code>
+			<code>351</code>
 		</td>
 		<td>
 			<code>667</code>
@@ -98,272 +65,305 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/8</code>
+			<code>2025/7/29</code>
 		</td>
 		<td>
-			<code>374</code>
+			<code>301</code>
 		</td>
 		<td>
-			<code>647</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/7</code>
-		</td>
-		<td>
-			<code>394</code>
-		</td>
-		<td>
-			<code>623</code>
+			<code>590</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/6</code>
+			<code>2025/7/28</code>
 		</td>
 		<td>
-			<code>466</code>
+			<code>316</code>
 		</td>
 		<td>
-			<code>729</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/5</code>
-		</td>
-		<td>
-			<code>376</code>
-		</td>
-		<td>
-			<code>578</code>
+			<code>539</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/4</code>
+			<code>2025/7/27</code>
 		</td>
 		<td>
-			<code>397</code>
+			<code>176</code>
 		</td>
 		<td>
-			<code>663</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/3</code>
-		</td>
-		<td>
-			<code>661</code>
-		</td>
-		<td>
-			<code>997</code>
+			<code>326</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2025/4/2</code>
+			<code>2025/7/26</code>
 		</td>
 		<td>
-			<code>353</code>
+			<code>145</code>
 		</td>
 		<td>
-			<code>514</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/4/1</code>
-		</td>
-		<td>
-			<code>309</code>
-		</td>
-		<td>
-			<code>439</code>
+			<code>242</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2025/3/31</code>
-		</td>
-		<td>
-			<code>325</code>
-		</td>
-		<td>
-			<code>528</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/30</code>
-		</td>
-		<td>
-			<code>246</code>
-		</td>
-		<td>
-			<code>419</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/29</code>
-		</td>
-		<td>
-			<code>237</code>
-		</td>
-		<td>
-			<code>363</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/28</code>
-		</td>
-		<td>
-			<code>286</code>
-		</td>
-		<td>
-			<code>439</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/27</code>
-		</td>
-		<td>
-			<code>356</code>
-		</td>
-		<td>
-			<code>635</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/26</code>
-		</td>
-		<td>
-			<code>371</code>
-		</td>
-		<td>
-			<code>653</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/25</code>
-		</td>
-		<td>
-			<code>425</code>
-		</td>
-		<td>
-			<code>762</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/24</code>
-		</td>
-		<td>
-			<code>393</code>
-		</td>
-		<td>
-			<code>778</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/23</code>
-		</td>
-		<td>
-			<code>312</code>
-		</td>
-		<td>
-			<code>551</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/22</code>
-		</td>
-		<td>
-			<code>260</code>
-		</td>
-		<td>
-			<code>468</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/21</code>
-		</td>
-		<td>
-			<code>318</code>
-		</td>
-		<td>
-			<code>500</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/20</code>
-		</td>
-		<td>
-			<code>299</code>
-		</td>
-		<td>
-			<code>528</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/19</code>
-		</td>
-		<td>
-			<code>356</code>
-		</td>
-		<td>
-			<code>573</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/18</code>
-		</td>
-		<td>
-			<code>340</code>
-		</td>
-		<td>
-			<code>593</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/17</code>
-		</td>
-		<td>
-			<code>338</code>
-		</td>
-		<td>
-			<code>549</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2025/3/16</code>
+			<code>2025/7/25</code>
 		</td>
 		<td>
 			<code>242</code>
 		</td>
 		<td>
-			<code>387</code>
+			<code>435</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/24</code>
+		</td>
+		<td>
+			<code>227</code>
+		</td>
+		<td>
+			<code>380</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/23</code>
+		</td>
+		<td>
+			<code>221</code>
+		</td>
+		<td>
+			<code>426</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/22</code>
+		</td>
+		<td>
+			<code>268</code>
+		</td>
+		<td>
+			<code>447</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/21</code>
+		</td>
+		<td>
+			<code>232</code>
+		</td>
+		<td>
+			<code>470</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/20</code>
+		</td>
+		<td>
+			<code>169</code>
+		</td>
+		<td>
+			<code>281</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/19</code>
+		</td>
+		<td>
+			<code>159</code>
+		</td>
+		<td>
+			<code>255</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/18</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/17</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/16</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/15</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/14</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/13</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/12</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/11</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/10</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/9</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/8</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/7</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/6</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/5</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/4</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/3</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/15 12:06 AM UTC</i></small>
+<small><i>Last updated on 2025/8/2 2:01 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
