@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2025/8/23</code>
+			<code>2025/8/24</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -32,13 +32,24 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2025/8/23</code>
+		</td>
+		<td>
+			<code>73</code>
+		</td>
+		<td>
+			<code>113</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2025/8/22</code>
 		</td>
 		<td>
-			<code>152</code>
+			<code>156</code>
 		</td>
 		<td>
-			<code>289</code>
+			<code>297</code>
 		</td>
 	</tr>
 	<tr>
@@ -60,7 +71,7 @@
 			<code>60</code>
 		</td>
 		<td>
-			<code>89</code>
+			<code>91</code>
 		</td>
 	</tr>
 	<tr>
@@ -167,10 +178,10 @@
 			<code>2025/8/10</code>
 		</td>
 		<td>
-			<code>148</code>
+			<code>142</code>
 		</td>
 		<td>
-			<code>327</code>
+			<code>319</code>
 		</td>
 	</tr>
 	<tr>
@@ -349,21 +360,10 @@
 			<code>413</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2025/7/24</code>
-		</td>
-		<td>
-			<code>221</code>
-		</td>
-		<td>
-			<code>375</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2025/8/23 12:05 AM UTC</i></small>
+<small><i>Last updated on 2025/8/24 12:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
