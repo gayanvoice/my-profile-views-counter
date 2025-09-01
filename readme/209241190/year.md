@@ -151,21 +151,10 @@
 			<code>339</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2024/8/1</code>
-		</td>
-		<td>
-			<code>129</code>
-		</td>
-		<td>
-			<code>511</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2025/8/31 12:07 AM UTC</i></small>
+<small><i>Last updated on 2025/9/1 12:07 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
