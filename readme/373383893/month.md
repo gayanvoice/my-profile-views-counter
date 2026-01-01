@@ -21,6 +21,17 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2026/1/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2025/12/31</code>
 		</td>
 		<td>
@@ -35,10 +46,10 @@
 			<code>2025/12/30</code>
 		</td>
 		<td>
-			<code>256</code>
+			<code>268</code>
 		</td>
 		<td>
-			<code>431</code>
+			<code>460</code>
 		</td>
 	</tr>
 	<tr>
@@ -46,7 +57,7 @@
 			<code>2025/12/29</code>
 		</td>
 		<td>
-			<code>294</code>
+			<code>299</code>
 		</td>
 		<td>
 			<code>487</code>
@@ -68,7 +79,7 @@
 			<code>2025/12/27</code>
 		</td>
 		<td>
-			<code>255</code>
+			<code>249</code>
 		</td>
 		<td>
 			<code>421</code>
@@ -79,7 +90,7 @@
 			<code>2025/12/26</code>
 		</td>
 		<td>
-			<code>304</code>
+			<code>301</code>
 		</td>
 		<td>
 			<code>524</code>
@@ -90,7 +101,7 @@
 			<code>2025/12/25</code>
 		</td>
 		<td>
-			<code>227</code>
+			<code>229</code>
 		</td>
 		<td>
 			<code>404</code>
@@ -101,7 +112,7 @@
 			<code>2025/12/24</code>
 		</td>
 		<td>
-			<code>331</code>
+			<code>322</code>
 		</td>
 		<td>
 			<code>614</code>
@@ -112,7 +123,7 @@
 			<code>2025/12/23</code>
 		</td>
 		<td>
-			<code>290</code>
+			<code>293</code>
 		</td>
 		<td>
 			<code>454</code>
@@ -123,7 +134,7 @@
 			<code>2025/12/22</code>
 		</td>
 		<td>
-			<code>399</code>
+			<code>395</code>
 		</td>
 		<td>
 			<code>603</code>
@@ -134,7 +145,7 @@
 			<code>2025/12/21</code>
 		</td>
 		<td>
-			<code>238</code>
+			<code>239</code>
 		</td>
 		<td>
 			<code>323</code>
@@ -156,7 +167,7 @@
 			<code>2025/12/19</code>
 		</td>
 		<td>
-			<code>296</code>
+			<code>300</code>
 		</td>
 		<td>
 			<code>477</code>
@@ -167,7 +178,7 @@
 			<code>2025/12/18</code>
 		</td>
 		<td>
-			<code>253</code>
+			<code>257</code>
 		</td>
 		<td>
 			<code>376</code>
@@ -178,10 +189,10 @@
 			<code>2025/12/17</code>
 		</td>
 		<td>
-			<code>270</code>
+			<code>288</code>
 		</td>
 		<td>
-			<code>420</code>
+			<code>438</code>
 		</td>
 	</tr>
 	<tr>
@@ -349,21 +360,10 @@
 			<code>242</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2025/12/1</code>
-		</td>
-		<td>
-			<code>137</code>
-		</td>
-		<td>
-			<code>275</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2025/12/31 12:06 AM UTC</i></small>
+<small><i>Last updated on 2026/1/1 12:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
