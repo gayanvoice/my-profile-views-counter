@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2026/8/14</code>
+			<code>2026/8/17</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -32,13 +32,46 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2026/8/16</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/8/15</code>
+		</td>
+		<td>
+			<code>237</code>
+		</td>
+		<td>
+			<code>330</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/8/14</code>
+		</td>
+		<td>
+			<code>278</code>
+		</td>
+		<td>
+			<code>424</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2026/8/13</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>312</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>506</code>
 		</td>
 	</tr>
 	<tr>
@@ -74,43 +107,10 @@
 			<code>507</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2026/8/9</code>
-		</td>
-		<td>
-			<code>253</code>
-		</td>
-		<td>
-			<code>462</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2026/8/8</code>
-		</td>
-		<td>
-			<code>216</code>
-		</td>
-		<td>
-			<code>390</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2026/8/7</code>
-		</td>
-		<td>
-			<code>255</code>
-		</td>
-		<td>
-			<code>436</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/8/14 1:00 AM UTC</i></small>
+<small><i>Last updated on 2026/8/17 12:36 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
