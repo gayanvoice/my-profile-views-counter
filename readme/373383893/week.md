@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2026/10/2</code>
+			<code>2026/10/4</code>
 		</td>
 		<td>
 			<code>0</code>
@@ -32,13 +32,35 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2026/10/3</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/10/2</code>
+		</td>
+		<td>
+			<code>214</code>
+		</td>
+		<td>
+			<code>320</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2026/10/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>314</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>500</code>
 		</td>
 	</tr>
 	<tr>
@@ -74,43 +96,10 @@
 			<code>573</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2026/9/27</code>
-		</td>
-		<td>
-			<code>244</code>
-		</td>
-		<td>
-			<code>393</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2026/9/26</code>
-		</td>
-		<td>
-			<code>243</code>
-		</td>
-		<td>
-			<code>433</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2026/9/25</code>
-		</td>
-		<td>
-			<code>286</code>
-		</td>
-		<td>
-			<code>454</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/10/2 3:01 AM UTC</i></small>
+<small><i>Last updated on 2026/10/4 2:27 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
