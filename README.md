@@ -85,6 +85,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/1404148302/week.md">
+				top-github-users-ranking
+			</a>
+		</td>
+		<td>
+			2026/10/1 12:00 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/1404148302/small/week.png" height="20"> 77
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/1404146594/week.md">
+				top-github-users-ranking-action
+			</a>
+		</td>
+		<td>
+			2026/10/2 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/1404146594/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372371373/week.md">
 				github-profile-views-counter-action
 			</a>
@@ -165,7 +197,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/10/5 4:14 AM UTC</i></small>
+<small><i>Last updated on 2026/10/5 6:31 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
